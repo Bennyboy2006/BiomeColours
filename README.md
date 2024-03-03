@@ -21,7 +21,7 @@ You must use worldedit or similar tools to apply the biomes
 
 - right click and compress to zip archive
 
-- Place this zip file in saves/<YourWorldName>/datapacks
+- Place this zip file in saves/YourWorldName/datapacks
 
 - Apply the biome to an area with another tool such as world edit
 
