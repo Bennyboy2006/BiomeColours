@@ -5,7 +5,7 @@
 This can be used to generate a datapack custom biome colours that you can apply to your world
 
 This tool does not automatically add biomes to your world and only sets the colours not the full biome settings!
-You must use worldedit or a similar tool to apply the biomes to an area.
+You must use worldedit or a similar tool to apply the biomes to an area but after that the biomes should appear in vanilla without the mod enabled.
 
 ![Custom Biome Colours](Example.png)
 
